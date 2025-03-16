@@ -1,20 +1,20 @@
 [
     {
-        "name": "Шаурма с вокзала",
-        "price": 15,
-        "description": "пон",
-        "imageURL": "shaurma.jfif"
+        "name": "Блатные мерседесы",
+        "price": 1500000,
+        "description": "Барханые тяги для настощих мерседесов",
+        "imageURL": "mercedeci.jfif"
     },
     {
-        "name": "Шаурма не с вокзала",
-        "price": 20,
-        "description": "пон",
-        "imageURL": "shaurma.jfif"
+        "name": "Бахратные тяги",
+        "price": 2000000,
+        "description": "Обычные бархатные тяги.",
+        "imageURL": "images.jfif"
     },
     {
-        "name": "Не шаурма",
+        "name": "Шавуха",
         "price": 15000,
-        "description": "пон",
+        "description": "Шаурма с вокзала",
         "imageURL": "shaurma.jfif"
     }
 ]
